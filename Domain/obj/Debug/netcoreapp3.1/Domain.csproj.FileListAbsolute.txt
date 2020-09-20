@@ -1,0 +1,12 @@
+D:\radwa\code\ASP.NetCore-React\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\radwa\code\ASP.NetCore-React\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\radwa\code\ASP.NetCore-React\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\radwa\code\ASP.NetCore-React\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+D:\radwa\code\ASP.NetCore-React\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\radwa\code\ASP.NetCore-React\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\radwa\code\ASP.NetCore-React\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\radwa\code\ASP.NetCore-React\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+D:\radwa\code\ASP.NetCore-React\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.json
+D:\radwa\code\ASP.NetCore-React\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.dev.json
+D:\radwa\code\ASP.NetCore-React\Domain\obj\Debug\netcoreapp3.1\Domain.genruntimeconfig.cache
+D:\radwa\code\ASP.NetCore-React\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
